@@ -33,7 +33,7 @@ Click on the drum buttons to play different drum sounds. Each button corresponds
 ## Screenshots
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; text-align: center;">
-        <img src="./images/Screenshot.png" width="300" alt="Screenshot 1">
+        <img src="./images/screenshot.png" width="300" alt="Screenshot 1">
 </div>
 
 ## Contributing
